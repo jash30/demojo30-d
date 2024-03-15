@@ -1,3 +1,5 @@
 # demojo30-d
 demo frist
-this is the description for my frist repo
+
+this also show the differences
+this hte frist repository should be show like ----
